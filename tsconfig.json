@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "es2022",
+    "target": "es2017",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "lib": ["es6"],
+    "outDir": "build",
+    "rootDir": "src",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
